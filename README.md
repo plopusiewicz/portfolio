@@ -3,6 +3,9 @@ Repozytorium zostało stworzone w celu pokazania, co już potrafię zrobić jako
 
 ## Spis treści:
 * [Diagram przypadków użycia](https://github.com/plopusiewicz/portfolio/blob/master/AptekaSlonik%20use%20case%20diagram.jpg)
-### ZNALEZIONE BŁĘDY I PROPOZYCJE ULEPSZEŃ:
-* 
+### Znalezione błędy i propozycje ulepszeń:
+* [Zgłoszenia w pliku Excel](https://github.com/plopusiewicz/portfolio/blob/master/AptekaSlonik%20use%20case%20diagram.jpg)
+* [Zgłoszenia eksportowane z Assembla](https://github.com/plopusiewicz/portfolio/tree/master/Assembla%20-%20zgloszenia)
+* [Zgłoszenia eksprtowane z Jira](https://github.com/plopusiewicz/portfolio/tree/master/Jira%20-%20zgloszenia)
+
 
